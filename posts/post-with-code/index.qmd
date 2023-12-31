@@ -9,16 +9,33 @@ image: "image.jpg"
 This is a post with executable code.
 
 ```{python}
-import numpy as np
-import matplotlib.pyplot as plt
+#| output: false
+import yfinance as yf
+import plotly.graph_objs as plt
 
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(
-    subplot_kw = {'projection': 'polar'}
-)
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
-plt.show()
+# Using graph_objects
+import plotly.graph_objects as go
+import nbformat
+import pandas as pd
+
+
+data = yf.download(tickers="^GSPC", start="2023-12-01", end="2023-12-29")
+data_y = yf.download(tickers="^GSPC", start="2023-01-01", end="2023-12-29")
+```
+
+```{python}
+#| fig-cap: "S&P 500 in Dec 2023"
+fig = plt.Figure(data=[plt.Candlestick(x=data.index,
+                open=data['Open'],
+                high=data['High'],
+                low=data['Low'],
+                close=data['Close'], name = 'S&P 500 Live Market Data')])
+
+fig.show()
+```
+
+```{python}
+#| fig-cap: "S&P 500 in 2023"
+fig = go.Figure([go.Scatter(x=data_y.index, y=data_y['Close'])])
+fig.show()
 ```
