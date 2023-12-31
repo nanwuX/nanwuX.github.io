@@ -11,7 +11,7 @@
     "href": "posts/example.html",
     "title": "this",
     "section": "",
-    "text": "hello hello"
+    "text": "hello hello\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n    subplot_kw = {'projection': 'polar'}\n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
   },
   {
     "objectID": "index.html",
