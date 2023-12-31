@@ -1,9 +1,9 @@
 {
-  "hash": "383c4ff283c9ce2e7f51156d959d6d32",
+  "hash": "94f998c51f3c8fe3c5e6699cfeacf230",
   "result": {
     "markdown": "---\ntitle: \"My Post\"\ndescription: \"Post description\"\nauthor: \"Pikachu\"\ndate: \"12/31/2023\"\ndraft: false\n---\n\nhello hello, this is my first post\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n    subplot_kw = {'projection': 'polar'}\n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n```\n\n::: {.cell-output .cell-output-display}\n![](example_files/figure-html/cell-2-output-1.png){width=450 height=439}\n:::\n:::\n\n\n",
     "supporting": [
-      "example_files"
+      "example_files/figure-html"
     ],
     "filters": [],
     "includes": {}

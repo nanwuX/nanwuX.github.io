@@ -1,0 +1,12 @@
+---
+title: "My Post"
+description: "Post description"
+author: "Pikachu"
+date: "12/31/2023"
+draft: false
+categories: [news]
+---
+
+hello hello, this is my first post
+
+![](thumbnail.jpg)

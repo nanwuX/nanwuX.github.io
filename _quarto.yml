@@ -5,17 +5,16 @@ project:
 website:
   title: "Blog"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    right:
       - about.qmd
-      - posts/example.qmd
+      - icon: github
+        href: https://github.com/
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
 
+jupyter: env
 
 

@@ -1,8 +1,8 @@
 ---
-title: "Pikachu"
+title: "About"
+image: pikachu.jpg
 about:
   template: jolla
-  image: pikachu.jpg
   links:
     - icon: github
       text: Github
@@ -10,5 +10,3 @@ about:
 ---
 
 Pikachu is a dog, who doesn't speak but wants to play all the time. 
-
-I haven't decided what to do with this website, so he is a placeholder here.

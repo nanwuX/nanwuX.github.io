@@ -10,5 +10,8 @@
   },
   "posts/example.qmd": {
     "example.html": "c81724ca"
+  },
+  "posts/welcome/example.qmd": {
+    "example.html": "3a7961fa"
   }
 }
