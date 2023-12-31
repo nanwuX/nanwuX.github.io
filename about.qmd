@@ -1,5 +1,14 @@
 ---
-title: "About"
+title: "Pikachu"
+about:
+  template: jolla
+  image: pikachu.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://nanwux.github.io/
 ---
 
-About this site
+Pikachu is a dog, who doesn't speak but wants to play all the time. 
+
+I haven't decided what to do with this website, so he is a placeholder here.

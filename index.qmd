@@ -1,7 +1,11 @@
 ---
-title: "website"
+title: "myblog"
+listing: 
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: [title, date]
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is a my personal website.
