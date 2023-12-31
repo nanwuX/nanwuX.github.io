@@ -13,5 +13,8 @@
   },
   "posts/welcome/example.qmd": {
     "example.html": "3a7961fa"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "455ce405"
   }
 }
