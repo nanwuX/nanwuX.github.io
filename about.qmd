@@ -6,7 +6,7 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://nanwux.github.io/
+      href: https://github.com/nanwuX
 ---
 
 Pikachu is a dog, who doesn't speak but wants to play all the time. 

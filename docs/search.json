@@ -16,15 +16,43 @@
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Post with code",
     "section": "",
     "text": "This is a post with executable code.\n\n\n\n                                                \nS&P 500 in Dec 2023\n\n\n\n\n\n                                                \nS&P 500 in 2023"
+  },
+  {
+    "objectID": "posts/resources/index.html",
+    "href": "posts/resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This blog is created following this tutorial -&gt; Personal Website using Jupyter Notebook and Quarto\nThis is quarto’s official tutorial, personally, I wish I used this one first. -&gt; Quarto’s tutorial"
+  },
+  {
+    "objectID": "posts/resources/index.html#financial",
+    "href": "posts/resources/index.html#financial",
+    "title": "Resources",
+    "section": "Financial",
+    "text": "Financial\nNerdwallet Best-of-Awards May update in the first week of every year\nFinancial Samurai\n跟我一起来谈钱 Reading List\nFees of Wealthfront and are too high for simple IRAs. Reddit Post\nFidelity robo is free up to 25k and Schwab intelligent portfolios are free. Reddit Post\nasset allocation\nRobo-Advisors vs. Index Funds vs. Target-Date Funds\nAre target date funds a better option for hands-off investors than robo-advisors? It all depends on what each investor needs.\n\n\n\nRobo-Advisors\nBest for\nManagement fee\n\n\n\n\nWealthfront\n\n0.25%\n\n\nBetterment\n\n0.25%\n\n\nM1 Finance\n\n0\n\n\nVanguard Digital Advisor\n\n0.15%\n\n\nFidelity Go\n\nfree up to 25k\n\n\nSchwab intelligent portfolios\nIRA\n0\n\n\n\n\n\n\nIndex\nIndex Funds\nExpense ratio\nType\n10-Year Annualized Rate\n\n\n\n\nS&P 500\nFidelity 500 Index Fund (FXAIX)\n0.015%\n\n11.90%\n\n\nS&P 500\nVanguard S&P 500 ETF (VOO)\n0.03%\nETF\n\n\n\n\nForbes Advisor Free Online Calculators\nRay Dalio All Weather Portfolio"
+  },
+  {
+    "objectID": "posts/resources/index.html#quarto",
+    "href": "posts/resources/index.html#quarto",
+    "title": "Resources",
+    "section": "Quarto",
+    "text": "Quarto\nAwesome Quarto\nPosit Open Source Products\nPosit Youtube Channel"
+  },
+  {
+    "objectID": "posts/resources/index.html#python",
+    "href": "posts/resources/index.html#python",
+    "title": "Resources",
+    "section": "Python",
+    "text": "Python\nPlotly Python\nnote.nkmk.me Python notes\nShiny for Python"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "myblog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2023\n\n\nPika\n\n\n\n\n\n\n  \n\n\n\n\nMy Post\n\n\n\n\n\n\n\nnews\n\n\n\n\nPost description\n\n\n\n\n\n\nDec 31, 2023\n\n\nPikachu\n\n\n\n\n\n\nNo matching items"
+    "text": "Resources\n\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 2, 2024\n\n\nPika\n\n\n\n\n\n\n  \n\n\n\n\nPost with code\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2023\n\n\nPika\n\n\n\n\n\n\n  \n\n\n\n\nMy Post\n\n\n\n\n\n\n\nnews\n\n\n\n\nPost description\n\n\n\n\n\n\nDec 31, 2023\n\n\nPikachu\n\n\n\n\n\n\nNo matching items"
   }
 ]

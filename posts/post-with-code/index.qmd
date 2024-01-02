@@ -1,5 +1,5 @@
 ---
-title: "Post With Code"
+title: "Post with code"
 author: "Pika"
 date: "2023-12-31"
 categories: [code, analysis]
@@ -39,3 +39,4 @@ fig.show()
 fig = go.Figure([go.Scatter(x=data_y.index, y=data_y['Close'])])
 fig.show()
 ```
+
