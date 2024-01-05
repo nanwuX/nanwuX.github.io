@@ -1,0 +1,56 @@
+---
+title: "Financial Planning"
+author: "Pika"
+date: "2024-01-02"
+categories: [finance]
+toc: true
+draft: true
+---
+
+## Financial Planning
+[Nerdwallet Best-of-Awards](https://www.nerdwallet.com/l/awards) May update in the first week of every year
+
+[Financial Samurai](https://www.financialsamurai.com/)
+
+[跟我一起来谈钱 Reading List](https://www.amazon.com/shop/influencer-56ee3e30/list/FDLY23ETJOQ1?tag=onamzchattymo-20&ref_=aip_sf_list_spv_ofs_mixed_d)
+
+Fees of Wealthfront and  are too high for simple IRAs.
+[Reddit Post](https://www.reddit.com/r/wealthfront/comments/12i32re/fees_are_too_high_for_simple_iras/)
+
+Fidelity robo is free up to 25k and Schwab intelligent portfolios are free.
+[Reddit Post](https://www.reddit.com/r/wealthfront/comments/12y40ix/wealthfront_vs_betterment/)
+
+asset allocation
+
+[Robo-Advisors vs. Index Funds vs. Target-Date Funds](https://www.nerdwallet.com/article/investing/target-date-fund-vs-robo-advisor)
+
+Are target date funds a better option for **hands-off** investors than robo-advisors? It all depends on what each investor needs.
+
+
+|Robo-Advisors|Best for|Management fee|
+|------|-----|-----|
+|Wealthfront||0.25%|
+|Betterment||0.25%|
+|M1 Finance||0|
+|Vanguard Digital Advisor||0.15%|
+|Fidelity Go||free up to 25k|
+|Schwab intelligent portfolios|IRA|0|
+
+|Index|Index Funds|Expense ratio|Type|10-Year Annualized Rate|
+|------|-----|-----|-----|-----|
+|S&P 500|Fidelity 500 Index Fund (FXAIX)|0.015%||11.90%|
+|S&P 500|Vanguard S&P 500 ETF (VOO)|0.03%|ETF||
+
+[Forbes Advisor Free Online Calculators](https://www.forbes.com/advisor/calculators/)
+
+[Ray Dalio All Weather Portfolio](https://portfolioslab.com/portfolio/ray-dalio-all-weather)
+
+Notes:
+
+- 2023-12-26: Updated Contribution Rate of 401k, will contribute to Roth 401(k) up to 2024's limit $23k
+
+- 2023-12-29: Converted $20k from traditional IRA to Roth IRA within Vanguard, waiting for tax form before I transfer money from Vanguard to Schwab / Fidelity
+
+- 2024-01-01: Interested in trying a robo-advisor, but not with IRA accounts
+
+- 2024-01-02: VTI is performing better than S&P 500, what percentage?
